@@ -1,0 +1,8 @@
+apiVersion: v2
+description: Cms Site Service Helm Chart
+name: cms-site-service-chart
+version: ${CHART_VERSION}
+keywords:
+  - cms
+  - site
+  - service
